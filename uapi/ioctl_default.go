@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT
 
-//go:build arm || arm64 || 386 || amd64 || riscv64
+//go:build arm || arm64 || 386 || amd64 || riscv64 || loong64
 
 package uapi
 
